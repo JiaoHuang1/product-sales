@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/product-sales/static/css/main.5f361e03.chunk.css",
+    "main.js": "/product-sales/static/js/main.e2a89dee.chunk.js",
+    "main.js.map": "/product-sales/static/js/main.e2a89dee.chunk.js.map",
+    "runtime-main.js": "/product-sales/static/js/runtime-main.16edbefe.js",
+    "runtime-main.js.map": "/product-sales/static/js/runtime-main.16edbefe.js.map",
+    "static/js/2.6be2cda0.chunk.js": "/product-sales/static/js/2.6be2cda0.chunk.js",
+    "static/js/2.6be2cda0.chunk.js.map": "/product-sales/static/js/2.6be2cda0.chunk.js.map",
+    "index.html": "/product-sales/index.html",
+    "precache-manifest.9b22d6b3410ef0269a2ac7a1b9314ab3.js": "/product-sales/precache-manifest.9b22d6b3410ef0269a2ac7a1b9314ab3.js",
+    "service-worker.js": "/product-sales/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/product-sales/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6be2cda0.chunk.js.LICENSE.txt": "/product-sales/static/js/2.6be2cda0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/product-sales/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16edbefe.js",
+    "static/js/2.6be2cda0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e2a89dee.chunk.js"
+  ]
+}
