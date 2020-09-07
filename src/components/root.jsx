@@ -1,11 +1,13 @@
 import React from 'react';
 import { Provider } from 'react-redux';
 import { Route, HashRouter } from 'react-router-dom';
-import Overview from './components/overview/overview_container';
-import Sales from './components/sales/sales_container';
+
+import Product from './product';
+import Overview from './overview/overview_container';
+import Sales from './sales/sales_container';
 
 
-const App = ({store}) => (
+const Root = ({store}) => (
     <Provider store={store}>
         <HashRouter>
             <Route exact path="/" component={Sales} />
@@ -15,6 +17,4 @@ const App = ({store}) => (
     </Provider>
 );
 
-export default App;
-
-
+export default Root;
